@@ -17,13 +17,14 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://sapp.fqnp.com:32666/nems57X57.jpg</string>
+					<string>https://raw.githubusercontent.com/lanyue52011/nemsapp/master/nems57X57.jpg
+</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://sapp.fqnp.com:32666/nems512X512.jpg</string>
+					<string>https://raw.githubusercontent.com/lanyue52011/nemsapp/master/nems512X512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
